@@ -163,14 +163,18 @@ Si vous essayez d'insérer à nouveau le même id, vous allez recevoir une erreu
 
 
 
-### 2.8 Créer / Supprimer une table
+### 2.8 Créer / Supprimer une table ou une base de données
 
 ```sql
 DROP TABLE employe;
 --Si la table n'existe pas, la commande lance un erreur, donc on peut vérifier avant de supprimer la table
-DROP TABLE employe if exists;
+DROP TABLE if exists employe;
 --Créer la table employe
 CREATE DATABASE employe;
+--Supprimer la base de données employe
+DROP DATABASE employe;
+--Si la base de données n'existe pas, la commande lance un erreur, donc on peut vérifier avant de supprimer la base de données
+DROP DATABASE if exists employe;
 ```
 
 
