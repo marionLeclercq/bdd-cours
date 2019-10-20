@@ -144,7 +144,7 @@ Table Livre :
 
 Ici nous retrouvons une clé primaire dans la colonne Id mais aussi **une clé étrangère (*Fk ou Foreign Key en anglais*)** dans la colonne Auteur_id. Cela nous permet de créer des relations entre les deux tables comme le montre l'image suivante : 
 
-![](/images/fk.jpg)
+![](images/fk.jpg)
 
 ### 1.6 Schéma et contenu
 
