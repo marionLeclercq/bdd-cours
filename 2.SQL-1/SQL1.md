@@ -93,7 +93,7 @@ CREATE TABLE nom_de_la_table(
 CREATE TABLE nom_de_la_table(
     column1 type_de_donnée contrainte,
     column2 type_de_donnée contrainte,
-    column2 type_de_donnée contrainte,
+    column2 type_de_donnée contrainte
 );
 ```
 
