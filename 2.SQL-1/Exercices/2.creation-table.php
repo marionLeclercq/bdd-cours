@@ -27,8 +27,8 @@
     <h1>Creation d'une table avec SQL</h1>
     <b>Exercice: </b>
     <ul>
-      <li>
-        1. Ecrivez une commande SQL qui sert à créer une table dans la base de données login_db.
+    <li>
+        1. Ecrivez une commande SQL qui sert à créer une table dans la base de données login_db et testez la commande en utilisant l'editeur de code SQL de phpMyAdmin.
       </li>
       <li>
         2. La table doit contenir les colonnes suivantes: <br>
@@ -75,14 +75,8 @@
           </li>
         </ul>
       </li>
-      <li>
-        3. Testez la commande en utilisant l'editeur de code SQL de phpMyAdmin.
-      </li>
     </ul>
     <br>
-    <pre class="hljs"><code class="sql">
-      --Placez votre code ici
-    </code></pre>
   </div>
   <script src="//cdnjs.cloudflare.com/ajax/libs/highlight.js/9.15.10/highlight.min.js"></script>
   <script>hljs.initHighlightingOnLoad();</script>
