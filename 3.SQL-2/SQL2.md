@@ -317,7 +317,7 @@ L'instruction retournera le nombre moyen de pages pour chaque groupe de la colon
 | pub_id | AVG(num_pages) |
 | ------ | -------------- |
 | P003   | 223.5000       |
-| P004   | 350.0000       |
+| P005   | 350.0000       |
 
 **HAVING**
 
